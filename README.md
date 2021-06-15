@@ -4,12 +4,12 @@
 🌱 I’m currently learning HTML/CSS/JS <br>
 🤔 I’m looking for help with better ways to learn how to code <br>
 💬 Ask me about design stuff! <br>
-⚡ Fun fact: I love the outdoor life 🍃 and listen music 🤟  <br>
+⚡ Fun fact: I love the outdoor life 🍃 and listen to music 🤟  <br>
 
 <div>
   <a href="https://github.com/ThamisCaetano">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThamisCaetano&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThamisCaetano&layout=compact&langs_count=16&theme=radical"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ThamisCaetano&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThamisCaetano&layout=compact&langs_count=16&theme=radical"/>
 </div>
   
   ##
