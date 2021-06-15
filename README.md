@@ -21,8 +21,7 @@
 <a href="https://open.spotify.com/user/12150933962?si=54bf52e640e7428a" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
 </div>
 
-  
-  
+    
   ##
   
 <div style="display: inline_block"><br>
