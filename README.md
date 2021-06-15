@@ -1,16 +1,33 @@
-### Hi there 👋
+### Hello there, I'm Thamires ✨
 
-<!--
-**ThamisCaetano/ThamisCaetano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working as Product Designer Freelancer
+🌱 I’m currently learning HTML/CSS/JS
+🤔 I’m looking for help with better ways to learn how to code
+💬 Ask me about design stuff!
+⚡ Fun fact: I love the outdoor life 🍃 and listen music 🤟  
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/ThamisCaetano">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThamisCaetano&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThamisCaetano&layout=compact&langs_count=16&theme=cobalt"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="thamis_Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="thamis_HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="thamis_CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="thamis_figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="thamis_AI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg">
+  <img align="center" alt="thamis_AI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+  
+  ##
+ 
+<div> 
+ <a href="https://instagram.com/thamiscaetano" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href = "mailto:contato@rafaballerini.tech"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/thamiscaetano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.behance.net/thamisgcaetano" target="_blank"><img src="https://img.shields.io/badge/Behance-blue?style=flat-square&logo=Behance" target="_blank"></a> 
+ <a href="https://open.spotify.com/user/12150933962?si=54bf52e640e7428a" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
+</div>
+
