@@ -12,7 +12,7 @@
   <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThamisCaetano&layout=compact&langs_count=16&theme=radical"/>
 </div>
   
-    ##
+  ##
  
 <div> 
  <a href="https://instagram.com/thamiscaetano" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
