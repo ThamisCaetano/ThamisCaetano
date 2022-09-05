@@ -4,7 +4,7 @@
 🌱 I’m currently learning HTML/CSS/JS (project on hold) <br>
 🤔 I’m looking for help with better ways to learn how to code <br>
 💬 Ask me about design stuff! <br>
-⚡ Fun fact: I love the outdoor life 🍃 listen to music 🤟 and I'm married with my favorite dev ever, <a href="https://github.com/rafaelvieiras" target="_blank"; text-decoration="none"> Rafa ❤️ </a><br>
+⚡ Fun fact: I love the outdoor life 🍃 listen to music 🤟 and I'm married with my favorite dev ever, <a href="https://github.com/rafaelvieiras" target="_blank" text-decoration="none"> Rafa ❤️ </a><br>
 
 <div>
   <a href="https://github.com/ThamisCaetano">
