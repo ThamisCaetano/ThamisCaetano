@@ -1,10 +1,10 @@
 ### Hello there, I'm Thamires ✨
 
-🔭 I’m currently working as Product Designer Freelancer <br>
-🌱 I’m currently learning HTML/CSS/JS <br>
+🔭 I’m currently working as Product Designer at Medroom and freelancer in the free time <br>
+🌱 I’m currently learning HTML/CSS/JS (project on hold) <br>
 🤔 I’m looking for help with better ways to learn how to code <br>
 💬 Ask me about design stuff! <br>
-⚡ Fun fact: I love the outdoor life 🍃 and listen to music 🤟  <br>
+⚡ Fun fact: I love the outdoor life 🍃 listen to music 🤟 and I'm married with my favorite dev ever, <a href="https://github.com/rafaelvieiras"> Rafa ❤️ </a><br>
 
 <div>
   <a href="https://github.com/ThamisCaetano">
